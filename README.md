@@ -1,12 +1,4 @@
 # i3-gaps gruvbox material dark
-![screenshot](./screenshots/screenshot_1.png)
-![screenshot](./screenshots/screenshot_2.png)
-![screenshot](./screenshots/screenshot_3.png)
-![screenshot](./screenshots/screenshot_4.png)
-![screenshot](./screenshots/screenshot_8.png)
-![screenshot](./screenshots/screenshot_5.png)
-![screenshot](./screenshots/screenshot_6.png)
-![screenshot](./screenshots/screenshot_7.png)
 
 ### Tools used 
 - Status bar - [Polybar](https://github.com/polybar/polybar)
@@ -21,5 +13,15 @@
 
 Thanks to [Aditya Shakya](https://github.com/adi1090x) for his great looking rofi theme. 
 - Rofi theme https://github.com/adi1090x/rofi
+
+### Screenshots
+![screenshot](./screenshots/screenshot_1.png)
+![screenshot](./screenshots/screenshot_2.png)
+![screenshot](./screenshots/screenshot_3.png)
+![screenshot](./screenshots/screenshot_4.png)
+![screenshot](./screenshots/screenshot_8.png)
+![screenshot](./screenshots/screenshot_5.png)
+![screenshot](./screenshots/screenshot_6.png)
+![screenshot](./screenshots/screenshot_7.png)
 
 
