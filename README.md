@@ -17,6 +17,7 @@
 - USB automount - [udiskie](https://github.com/coldfix/udiskie)
 - Application launcher - [Rofi](https://github.com/davatorium/rofi)
 
+[Wallpaper from here](https://www.wallpaperflare.com/search?wallpaper=gruvbox)
 
 Thanks to [Aditya Shakya](https://github.com/adi1090x) for his great looking rofi theme. 
 - Rofi theme https://github.com/adi1090x/rofi
