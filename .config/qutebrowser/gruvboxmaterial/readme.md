@@ -1,4 +1,4 @@
-# Material for [qutebrowser](https://www.qutebrowser.org/)
+# Gruvbox Material Dark for [qutebrowser](https://www.qutebrowser.org/)
 
 > A dark theme for [qutebrowser](https://www.qutebrowser.org/).
 
